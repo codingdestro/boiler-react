@@ -39,6 +39,7 @@ A modern, opinionated boilerplate for building React applications with TypeScrip
 
 
 ### Project Structure
+```bash
  my-app/
 ├── public/              # Static assets
 ├── src/
@@ -58,3 +59,4 @@ A modern, opinionated boilerplate for building React applications with TypeScrip
 ├── postcss.config.mjs   # PostCSS configuration
 ├── tsconfig.json        # TypeScript configuration
 ├── vite.config.ts       # Vite configuration
+```
